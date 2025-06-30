@@ -38,13 +38,6 @@ The dashboard visualizes:
 
 ---
 
-## 🌐 Live Dashboard
-
-👉 [View the dashboard on Tableau Public](https://public.tableau.com/views/LIVE_LINK_HERE)  
-*(Replace this link with your actual Tableau Public dashboard URL)*
-
----
-
 ## 🖼️ Dashboard Preview
 
 ![Dashboard Screenshot]({34048117-E2A3-48B4-A13F-41457BFA6FCC}.png)  
