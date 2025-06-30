@@ -47,5 +47,5 @@ The dashboard visualizes:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)  
+![Dashboard Screenshot]({34048117-E2A3-48B4-A13F-41457BFA6FCC}.png)  
 *A snapshot of the interactive Tableau dashboard.*
